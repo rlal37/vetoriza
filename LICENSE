@@ -1,0 +1,14 @@
+Vetoriza — traçado de imagem no navegador
+Copyright (C) 2026 Raul  (edite com seu nome completo / usuário do GitHub)
+
+Este programa é software livre; você pode redistribuí-lo e/ou modificá-lo
+sob os termos da GNU General Public License versão 2, conforme publicada
+pela Free Software Foundation.
+
+Este programa é distribuído na esperança de que seja útil, mas SEM
+QUALQUER GARANTIA; sem mesmo a garantia implícita de COMERCIALIZAÇÃO ou
+ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Veja a GNU General Public License
+para mais detalhes: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+Este projeto incorpora o Potrace (© 2001-2019 Peter Selinger, GPL-2.0)
+via esm-potrace-wasm (© Thomas Steiner, GPL-2.0), em lib/potrace.js.
