@@ -26,12 +26,6 @@ A transparência do original é preservada no SVG.
 
 Abra `index.html` no navegador. Sem build, sem dependências, sem servidor.
 
-## Publicar no GitHub Pages
-
-1. Crie um repositório e envie estes arquivos
-2. Em **Settings → Pages**, selecione *Deploy from a branch* → `main`, pasta `/ (root)`
-3. O app fica em `https://SEU-USUARIO.github.io/NOME-DO-REPO/`
-
 ## Dicas
 
 | Tipo de imagem | Preset |
